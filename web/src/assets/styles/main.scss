@@ -1,0 +1,13 @@
+@import 'bootstrap/dist/css/bootstrap.min.css';
+
+.form-group {
+  margin-bottom: 1rem;
+}
+
+.active {
+  font-weight: bold;
+}
+.list-group{ 
+  cursor: pointer;
+  user-select: none;
+}

@@ -1,0 +1,6 @@
+{
+	"jwtPrivateKey": "unsecureKey",
+	"db": "mongodb://localhost/movies-app",
+	"port": "4000",
+	"onlyAdmin": true
+}
